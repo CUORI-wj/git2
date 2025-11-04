@@ -13,6 +13,6 @@ or missed a mistake please just fix it and make another commit.
 
 You can find the original of these documents at https://web.archive.org/web/20210421151515/https://misymptomapp.state.mi.us/faq
 
-Please note that the FAQ may have been udpated since this repo was created. 
+Please note that the FAQ may have been updated since this repo was created. 
 
-(The orginial text is copyright State of Michigan) 
+(The original text is copyright State of Michigan) 
